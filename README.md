@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FelipeGuerreiro7
-- 👀 I’m interested in  estudar progracao
+- 👀 I’m interested in study programming
 - 🌱 I’m currently learning github
-- 💞️ I’m looking to collaborate com qualquer um que possa me ensinar cada vez mais
+- 💞️ I’m looking to collaborate with everyone how can learn me more 
 - 📫 How to reach me lf.guerreiroalves@gmail.com
 
 <!---
